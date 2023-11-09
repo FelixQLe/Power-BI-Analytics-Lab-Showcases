@@ -1,6 +1,8 @@
 # BI-Analytics-Lab-Power-BI-Showcases
 This repository houses a collection of Power BI projects and related documents that encompass a wide array of analyses, visualizations, and reports. The projects within this repository have been designed to explore various aspects of data analysis and reporting using Microsoft Power BI.
 
+![Screenshot 2023-11-09 at 4 24 17 PM](https://github.com/FelixQLe/Power-BI-Analytics-Lab-Showcases/assets/93171100/f52ab477-c5be-4871-ab8e-1f38d36821cd)
+
 Table of Contents
 * File Descriptions
 * Project Overview
