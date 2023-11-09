@@ -12,9 +12,9 @@ Table of Contents
 
 This repository contains Power BI (.pbix) files, Excel spreadsheets, and documentation in various formats, including Word documents and Excel files. The files cover different areas of analysis and reporting, encompassing sales, forecasting, performance enhancement, and visualization techniques.
 
-    * Power BI Files: Various .pbix files encapsulating different Power BI projects.
-    * Excel Files: Spreadsheets showcasing targeted use of charts, business performance indicators, and data for analyses.
-    * Documentation: Word documents detailing methodologies, techniques, and analyses performed using Power BI.
+   * Power BI Files: Various .pbix files encapsulating different Power BI projects.
+   * Excel Files: Spreadsheets showcasing targeted use of charts, business performance indicators, and data for analyses.
+   * Documentation: Word documents detailing methodologies, techniques, and analyses performed using Power BI.
 2. Project Overview
 
 The Power BI projects included in this repository are centered around the following key areas:
